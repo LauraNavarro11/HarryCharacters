@@ -9,5 +9,4 @@ data class CharactersResponse(
     @SerializedName("ancestry") var ancestry: String,
     @SerializedName("id") var id: String
 
-
 )

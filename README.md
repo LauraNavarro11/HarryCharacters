@@ -7,6 +7,6 @@
 
 <a href="./harry11.PNG"><img src="./harry11.PNG" style="height: 50%; width:50%;"/></a>
 
-La aplicaicon consta de un recyclerView con llamada a la api, que dara como resultado una lsita de
+La aplicaicon consta de un recyclerView con llamada a la api, que dara como resultado una lista de
 sus personajes, al clickar en uno de ellos te dara si es de "pura sangre","mestizo" o "sangre sucia"
 dependiendo de cual sea.

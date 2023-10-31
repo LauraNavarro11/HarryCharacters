@@ -1,4 +1,4 @@
-# App de Harry Potter en Android Studio con Kotlin
+# App list of harry potter characters with Kotlin
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-2023.3.1-blue.svg?longCache=true&style=popout-square)
 

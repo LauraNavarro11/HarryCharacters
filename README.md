@@ -9,6 +9,8 @@
 ## On the main page we have a list of characters with their respective name and house through a recycler view.
 
 <a href="./harryMain.PNG"><img src="./harryMain.PNG" style="height: 50%; width:50%;"/></a><br>
+<a href="./harryMain2.PNG"><img src="./harryMain2.PNG" style="height: 50%; width:50%;"/></a><br>
+
 
 ## By clicking on the character item it will give you the data of their respective character
 

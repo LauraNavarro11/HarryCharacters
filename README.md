@@ -4,9 +4,15 @@
 
 * [Retrofit](https://github.com/square/retrofit)
 * [HarryAPI](https://hp-api.onrender.com/)
+*
 
-<a href="./harryCap.PNG"><img src="./harryCap.PNG" style="height: 50%; width:50%;"/></a>
+## On the main page we have a list of characters with their respective name and house through a recycler view.
 
-La aplicaicon consta de un recyclerView con llamada a la api, que dara como resultado una lista de
-sus personajes, al clickar en uno de ellos te dara si es de "pura sangre","mestizo" o "sangre sucia"
-dependiendo de cual sea.
+<a href="./harryMain.PNG"><img src="./harryMain.PNG" style="height: 50%; width:50%;"/></a><br>
+
+## By clicking on the character item it will give you the data of their respective character
+
+<a href="./harryDetail.PNG"><img src="./harryDetail.PNG" style="height: 50%; width:50%;"/></a><br>
+
+The application consists of a recyclerView with a call to the API, which will result in a list of
+its characters

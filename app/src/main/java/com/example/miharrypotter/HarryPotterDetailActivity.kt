@@ -38,8 +38,13 @@ class HarryPotterDetailActivity : AppCompatActivity() {
 
     private fun createdUi(body: List<CharactersResponse>) {
         val character: CharactersResponse = body[0]
-        binding.tvHarryDetail.text=character.name
-        binding.tvBotom.text=character.ancestry
+        binding.tvHarryDetailName.text=character.name
+        binding.tvHarryDetailAncestry.text=character.ancestry
+        binding.tvHarryDetailEyes.text="${character.eyeColour} eyes"
+        binding.tvHarryDetailYear.text="${character.yearOfBirth} year Of Birth"
+        binding.tvHarryDetailactor.text="${character.actor} actor"
+        binding.tvHarryDetailPatronus.text="${character.patronus} patronus"
+
 
 
     }

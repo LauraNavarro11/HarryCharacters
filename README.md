@@ -8,8 +8,8 @@
 
 ## In the main activity we can see the different tasks added and registered in real time in firebase
 
-<a href="./harryMain1.PNG"><img src="./harryMain1.PNG" style="height: 70%; width:70%;"/></a><br>
-<a href="./harrymain33.PNG"><img src="./harrymain33.PNG" style="height: 40%; width:40%;"/></a><br>
+<a href="./harryMain1.PNG"><img src="./harryMain1.PNG" style="height: 50%; width:50%;"/></a><br>
+<a href="./harrymain33.PNG"><img src="./harrymain33.PNG" style="height: 50%; width:50%;"/></a><br>
 
 
 ## By clicking on the character item it will give you the data of their respective character

@@ -14,8 +14,4 @@ data class CharactersResponse(
     @SerializedName("eyeColour") var eyeColour: String
 
 
-
-
-
-
 )

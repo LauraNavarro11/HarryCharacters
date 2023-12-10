@@ -6,7 +6,7 @@
 * [HarryAPI](https://hp-api.onrender.com/)
 
 
-## In the main activity we can see the different tasks added and registered in real time in firebase
+## In the main activity you can see a list of the different characters, with their image in a cardView
 
 <a href="./harryMain1.PNG"><img src="./harryMain1.PNG" style="height: 50%; width:50%;"/></a><br>
 <a href="./harrymain33.PNG"><img src="./harrymain33.PNG" style="height: 50%; width:50%;"/></a><br>

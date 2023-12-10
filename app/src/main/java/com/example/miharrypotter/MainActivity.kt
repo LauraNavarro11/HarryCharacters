@@ -57,7 +57,6 @@ class MainActivity : AppCompatActivity() {
             } else {
             }
         }
-
     }
     private fun navegateDetail(id:String){
         val intent=Intent(this,HarryPotterDetailActivity::class.java)
